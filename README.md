@@ -5,15 +5,6 @@
 </p>
 <h1 align="center">Cloud GPUs</h1>
 
-<div align='center'>
-
-![license](https://img.shields.io/github/license/cloud-gpus/cloud-gpus.github.io?style=flat-square)
-![website](https://img.shields.io/website?down_color=lightgrey&down_message=Offline&style=flat-square&up_color=green&up_message=Online&url=https%3A%2F%cloud-gpus.com)
-![pull_requests](https://img.shields.io/github/issues-pr/cloud-gpus/cloud-gpus.github.io?style=flat-square)
-![stars](https://img.shields.io/github/stars/cloud-gpus/cloud-gpus.github.io?style=flat-square)
-
-</div>
-
 A sortable list of pcloud GPU providers, viewable on [cloud-gpus.com](https://cloud-gpus.com). 
 
 Please submit a pull request for any changes. 
