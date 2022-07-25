@@ -84,8 +84,8 @@ fetch('js/cloud_gpu.json')
                 }
             },
             "order": [
-                [1, "asc"],
-                [2, "desc"]
+                [1, "desc"],
+                [2, "asc"]
             ]
         });
 
