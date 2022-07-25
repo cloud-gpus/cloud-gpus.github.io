@@ -59,6 +59,9 @@ fetch('js/cloud_gpu.json')
             }, {
                 data: 'cost3090'
             }, {
+                data: 'costa5000',
+                visible: false
+            }, {
                 data: 'region'
             }, {
                 data: 'images',
