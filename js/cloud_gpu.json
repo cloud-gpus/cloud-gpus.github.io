@@ -242,6 +242,29 @@
          "credits": "$0",
          "persistence": true,
          "region": "Worldwide"
+     },
+     {
+         "name": "CoreWeave",
+         "url": "http://coreweave.com/?utm_campaign=Cloud%20GPU%20Comparison&utm_source=3rd-party-publisher&utm_medium=cloud-gpus-comparison-table",
+         "cost1080": "-",
+         "costv100": "$0.80",
+         "costp100": "-",
+         "costt4": "-",
+         "costk80": "-",
+         "costm60": "-",
+         "cost3080": "-",
+         "cost3090": "-",
+         "costp4": "-",
+         "cost2080": "-",
+         "costa5000": "$0.77",
+         "costa6000": "$1.28",
+         "costa100": "$2.06",
+         "images": true,
+         "notebooks": false,
+         "ssh": true,
+         "credits": "$0",
+         "persistence": true,
+         "region": "US"
      }
     ]
 
