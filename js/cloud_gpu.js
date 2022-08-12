@@ -62,6 +62,12 @@ fetch('js/cloud_gpu.json')
                 data: 'costa5000',
                 visible: false
             }, {
+                data: 'costrtx6000',
+                visible: false
+            }, {
+                data: 'costa40',
+                visible: false
+            }, {
                 data: 'region'
             }, {
                 data: 'images',
