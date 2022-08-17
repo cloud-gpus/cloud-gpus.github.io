@@ -92,7 +92,7 @@
          "ssh": true,
          "credits": "$50",
          "persistence": true,
-         "region": "Iceland"
+         "region": "Iceland, Norway"
      }, {
          "name": "Paperspace",
          "url": "https://console.paperspace.com/signup?R=ZKGRZB5",
