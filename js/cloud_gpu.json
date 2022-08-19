@@ -364,6 +364,33 @@
          "credits": "$0",
          "persistence": true,
          "region": "Worldwide"
+     },
+     {
+         "name": "FluidStack (code CGPUCOMP50)",
+         "url": "https://console.fluidstack.io/affiliate?affid=recCzcNwSLlesYMdN&next=/&fluidstackio=true",
+         "cost1080": "-",
+         "costv100": "$0.72",
+         "costp100": "-",
+         "costt4": "-",
+         "costk80": "-",
+         "costm60": "-",
+         "cost3080": "$0.56",
+         "cost3090": "$0.89",
+         "costp4": "-",
+         "cost2080": "$0.41",
+         "costa5000": "$1.38",
+         "costa6000": "$2.00",
+         "costa100": "$2.93",
+         "costa40": "$2.00",
+         "costrtx6000": "-",
+         "costrtx5000": "$1.14",
+         "costrtx4000": "$0.42",
+         "images": true,
+         "notebooks": false,
+         "ssh": true,
+         "credits": "$50",
+         "persistence": true,
+         "region": "Worldwide"
      }
     ]
 
