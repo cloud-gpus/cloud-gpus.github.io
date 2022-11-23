@@ -316,7 +316,7 @@
      },
      {
          "name": "Vultr",
-         "url": "https://www.vultr.com/pricing/#cloud-gpu",
+         "url": "https://www.vultr.com/?ref=9041257-8H",
          "cost1080": "-",
          "costv100": "-",
          "costp100": "-",
@@ -335,9 +335,9 @@
          "images": true,
          "notebooks": false,
          "ssh": true,
-         "credits": "$0",
+         "credits": "$35",
          "persistence": true,
-         "region": "US",
+         "region": "Worldwide",
          "supportsFractional": true
      },
      {
