@@ -335,7 +335,7 @@
          "images": true,
          "notebooks": false,
          "ssh": true,
-         "credits": "$35",
+         "credits": "$100",
          "persistence": true,
          "region": "Worldwide",
          "supportsFractional": true
