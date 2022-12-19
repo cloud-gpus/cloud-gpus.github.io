@@ -391,7 +391,18 @@
          "credits": "$50",
          "persistence": true,
          "region": "Worldwide"
+     },
+     {
+         "name": "TensorDock Marketplace",
+         "url": "https://marketplace.tensordock.com/",
+         "cost3090": "$0.22",
+         "costv100": "$0.22",
+         "images": true,
+         "notebooks": true,
+         "ssh": true,
+         "credits": "$50",
+         "persistence": true,
+         "region": "Worldwide"
      }
     ]
-
  }
