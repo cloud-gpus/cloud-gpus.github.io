@@ -130,7 +130,7 @@
          "region": "US/Europe"
      }, {
          "name": "Vast.ai",
-         "url": "https://vast.ai/console/create/",
+         "url": "https://cloud.vast.ai/?ref=61525",
          "cost1080": "$0.40",
          "costk80": "$0.60",
          "costv100": "$1.40",
