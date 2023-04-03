@@ -78,9 +78,9 @@
      }, {
          "name": "Genesis Cloud",
          "url": "https://gnsiscld.co/ffsd3",
-         "cost1080": "$0.30",
-         "cost3080": "$0.90",
-         "cost3090": "$1.30",
+         "cost1080": "$0.60",
+         "cost3080": "$0.30",
+         "cost3090": "$0.70",
          "costv100": "-",
          "costp100": "-",
          "costk80": "-",
