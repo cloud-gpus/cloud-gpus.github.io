@@ -411,6 +411,34 @@
          "credits": "$50",
          "persistence": true,
          "region": "Worldwide"
+     },
+       {
+         "name": "Salad",
+         "url": "https://salad.com/salad-gpu-cloud?utm_source=Cloud%20GPUs%20Site&utm_medium=Search&utm_campaign=GPU%20Cloud&utm_content=Hungry%20for%20GPUs",
+         "cost1080": "$0.05",
+         "costv100": "-",
+         "costp100": "-",
+         "costt4": "-",
+         "costk80": "-",
+         "costm60": "-",
+         "cost3080": "$0.18",
+         "cost3090": "$0.25",
+         "costp4": "-",
+         "cost2080": "-",
+         "costa5000": "-",
+         "costa6000": "-",
+         "costa100_40": "-",
+         "costa100_80": "-",
+         "costa40": "-",
+         "costrtx6000": "-",
+         "costrtx5000": "-",
+         "costrtx4000": "-",
+         "images": true,
+         "notebooks": false,
+         "ssh": false,
+         "credits": "$50",
+         "persistence": false,
+         "region": "Worldwide"
      }
     ]
 
