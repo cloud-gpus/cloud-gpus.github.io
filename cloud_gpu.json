@@ -475,7 +475,7 @@
             "images": true,
             "notebooks": false,
             "ssh": true,
-            "credits": "$50",
+            "credits": "$0",
             "persistence": true,
             "region": "Worldwide"
         },
