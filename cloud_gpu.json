@@ -3,6 +3,7 @@
         {
             "name": "Amazon Web Services (AWS)",
             "url": "https://aws.amazon.com/",
+            "cost1080": "-",
             "costv100": "$0.918",
             "costp100": "-",
             "costt4": "$0.1578",
