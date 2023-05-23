@@ -448,7 +448,7 @@
             "region": "Worldwide"
         },
         {
-            "name": "FluidStack (code CGPUCOMP50)",
+            "name": "FluidStack",
             "url": "https://console.fluidstack.io/affiliate?affid=recCzcNwSLlesYMdN&next=order",
             "cost1080": "-",
             "costv100": "$0.72",
