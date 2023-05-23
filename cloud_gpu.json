@@ -486,7 +486,7 @@
         },
         {
             "name": "Oblivus Cloud",
-            "url": "https://oblivus.com",
+            "url": "https://oblivus.com?ref=cloud_gpus",
             "cost1080": "-",
             "costv100": "$0.51",
             "costp100": "-",
@@ -518,7 +518,7 @@
         },
         {
             "name": "Seeweb",
-            "url": "https://www.seeweb.it/en/products/cloud-server-gpu",
+            "url": "https://www.seeweb.it/en/products/cloud-server-gpu?ref=cloud_gpus",
             "cost1080": "-",
             "costv100": "-",
             "costp100": "-",
@@ -547,6 +547,38 @@
             "credits": "$0",
             "persistence": true,
             "region": "Italy"
+        },
+        {
+            "name": "Latitude.sh",
+            "url": "https://www.latitude.sh/pricing?gen=3&ref=cloud_gpus",
+            "cost1080": "-",
+            "costv100": "-",
+            "costp100": "-",
+            "costt4": "-",
+            "costk80": "-",
+            "costm60": "-",
+            "cost3080": "-",
+            "cost3090": "-",
+            "costp4": "-",
+            "cost2080": "-",
+            "costa5000": "-",
+            "costa6000": "-",
+            "costa100_40": "-",
+            "costa100_80": "-",
+            "costa40": "-",
+            "costrtx6000": "-",
+            "costrtx5000": "-",
+            "costrtx4000": "-",
+            "costa10": "-",
+            "cost4090": "-",
+            "costh100": "$4.78",
+            "costl40": "-",
+            "images": true,
+            "notebooks": false,
+            "ssh": true,
+            "credits": "$0",
+            "persistence": true,
+            "region": "Worldwide"
         }
     ]
 }
