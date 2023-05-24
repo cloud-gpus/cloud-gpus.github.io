@@ -579,6 +579,38 @@
             "credits": "$0",
             "persistence": true,
             "region": "Worldwide"
+        },
+        {
+            "name": "Exoscale",
+            "url": "https://www.exoscale.com/gpu/",
+            "cost1080": "-",
+            "costv100": "€1.375",
+            "costp100": "€1.168",
+            "costt4": "-",
+            "costk80": "-",
+            "costm60": "-",
+            "cost3080": "-",
+            "cost3090": "-",
+            "costp4": "-",
+            "cost2080": "-",
+            "costa5000": "-",
+            "costa6000": "-",
+            "costa100_40": "-",
+            "costa100_80": "-",
+            "costa40": "€2.133",
+            "costrtx6000": "-",
+            "costrtx5000": "-",
+            "costrtx4000": "-",
+            "costa10": "-",
+            "cost4090": "-",
+            "costh100": "-",
+            "costl40": "-",
+            "images": true,
+            "notebooks": false,
+            "ssh": true,
+            "credits": "€0",
+            "persistence": true,
+            "region": "Switzerland, Germany"
         }
     ]
 }
