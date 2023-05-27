@@ -582,10 +582,10 @@
         },
         {
             "name": "Exoscale",
-            "url": "https://www.exoscale.com/gpu/",
+            "url": "https://www.exoscale.com/gpu/?ref=cloud_gpus",
             "cost1080": "-",
-            "costv100": "€1.375",
-            "costp100": "€1.168",
+            "costv100": "$1.375",
+            "costp100": "$1.168",
             "costt4": "-",
             "costk80": "-",
             "costm60": "-",
@@ -597,7 +597,7 @@
             "costa6000": "-",
             "costa100_40": "-",
             "costa100_80": "-",
-            "costa40": "€2.133",
+            "costa40": "$2.133",
             "costrtx6000": "-",
             "costrtx5000": "-",
             "costrtx4000": "-",
@@ -608,7 +608,7 @@
             "images": true,
             "notebooks": false,
             "ssh": true,
-            "credits": "€0",
+            "credits": "$0",
             "persistence": true,
             "region": "Switzerland, Germany"
         }
