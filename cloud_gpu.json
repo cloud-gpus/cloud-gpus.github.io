@@ -611,6 +611,38 @@
             "credits": "$0",
             "persistence": true,
             "region": "Switzerland, Germany"
+        },
+        {
+            "name": "ACE Cloud",
+            "url": "https://www.acecloudhosting.com/public-cloud/gpu/?ref=cloud_gpus",
+            "cost1080": "-",
+            "costv100": "-",
+            "costp100": "-",
+            "costt4": "-",
+            "costk80": "-",
+            "costm60": "-",
+            "cost3080": "-",
+            "cost3090": "-",
+            "costp4": "-",
+            "cost2080": "-",
+            "costa5000": "-",
+            "costa6000": "-",
+            "costa100_40": "$1.50",
+            "costa100_80": "$3.00",
+            "costa40": "-",
+            "costrtx6000": "-",
+            "costrtx5000": "-",
+            "costrtx4000": "-",
+            "costa10": "-",
+            "cost4090": "-",
+            "costh100": "-",
+            "costl40": "-",
+            "images": true,
+            "notebooks": false,
+            "ssh": true,
+            "credits": "$300",
+            "persistence": true,
+            "region": "Worldwide"
         }
     ]
 }
