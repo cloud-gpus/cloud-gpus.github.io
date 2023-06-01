@@ -670,7 +670,7 @@
             "images": true,
             "notebooks": false,
             "ssh": true,
-            "credits": "-",
+            "credits": "$0",
             "persistence": true,
             "region": "Worldwide",
             "pricing-source": "https://cirrascale.com/cirrascale-cloud-pricing.php"
