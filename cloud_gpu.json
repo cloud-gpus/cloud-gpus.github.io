@@ -643,6 +643,37 @@
             "credits": "$300",
             "persistence": true,
             "region": "Worldwide"
+        },
+        {
+            "name": "Cirrascale Cloud Services",
+            "url": "https://cirrascale.com",
+            "cost1080": "-",
+            "costv100": "-",
+            "costp100": "-",
+            "costt4": "-",
+            "costk80": "-",
+            "costm60": "-",
+            "cost3080": "-",
+            "cost3090": "-",
+            "costp4": "-",
+            "cost2080": "-",
+            "costa5000": "$0.51",
+            "costa6000": "$1.12",
+            "costa100_40": "$2.87",
+            "costa100_80": "$3.25",
+            "costrtx6000": "-",
+            "costa40": "$1.44",
+            "costa10": "-",
+            "cost4090": "-",
+            "costh100": "$4.28",
+            "costl40": "-",
+            "images": true,
+            "notebooks": false,
+            "ssh": true,
+            "credits": "$0",
+            "persistence": true,
+            "region": "Worldwide",
+            "pricing-source": "https://cirrascale.com/cirrascale-cloud-pricing.php"
         }
     ]
 }
