@@ -1,7 +1,7 @@
 {
     "data": [
         {
-            "name": "Amazon Web Services (AWS)",
+            "name": "Amazon AWS",
             "url": "https://aws.amazon.com/",
             "cost1080": "-",
             "costv100": "$0.918",
@@ -32,7 +32,7 @@
             "pricing-source": "https://calculator.aws/#/addService/ec2-enhancement"
         },
         {
-            "name": "Google Cloud Platform (GCP)",
+            "name": "Google Cloud",
             "url": "https://gcpsignup.page.link/8uhU",
             "cost1080": "-",
             "costv100": "$0.74",
@@ -645,7 +645,7 @@
             "region": "Worldwide"
         },
         {
-            "name": "Cirrascale Cloud Services",
+            "name": "Cirrascale",
             "url": "https://cirrascale.com",
             "cost1080": "-",
             "costv100": "-",
