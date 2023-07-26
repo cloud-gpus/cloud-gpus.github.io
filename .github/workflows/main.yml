@@ -10,11 +10,11 @@ defaults:
     shell: bash
 jobs:
   trigger-build:
-    name: Trigger build (Cloudflare)
+    name: Trigger build
     runs-on: ubuntu-20.04
     steps:
       - name: sleep for 30 seconds
         run: sleep 30s
         shell: bash
       - name: hit endpoint  
-        run: curl -X POST "https://api.cloudflare.com/client/v4/pages/webhooks/deploy_hooks/34a79f00-1020-4dc9-a5cc-76ebf0d221d2"
+        run: curl -X POST -d {} https://api.netlify.com/build_hooks/64c0e6ee7dfcba46046efe99
