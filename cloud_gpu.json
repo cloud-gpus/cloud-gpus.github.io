@@ -676,6 +676,37 @@
             "persistence": true,
             "region": "Worldwide",
             "pricing-source": "https://cirrascale.com/cirrascale-cloud-pricing.php"
+        },
+        {
+            "name": "Cudo Compute",
+            "url": "https://cudocompute.com",
+            "cost1080": "-",
+            "costv100": "-",
+            "costp100": "-",
+            "costt4": "-",
+            "costk80": "-",
+            "costm60": "-",
+            "cost3080": "-",
+            "cost3090": "-",
+            "costp4": "-",
+            "cost2080": "-",
+            "costa5000": "$0.54",
+            "costa6000": "$0.78",
+            "costa100_40": "-",
+            "costa100_80": "-",
+            "costrtx6000": "-",
+            "costa40": "-",
+            "costa10": "-",
+            "cost4090": "-",
+            "costh100": "-",
+            "costl40": "-",
+            "images": true,
+            "notebooks": false,
+            "ssh": true,
+            "credits": "$0",
+            "persistence": true,
+            "region": "Worldwide",
+            "pricing-source": "https://www.cudocompute.com/gpu-rental/"
         }
     ]
 }
