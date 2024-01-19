@@ -179,7 +179,7 @@
             "images": true,
             "notebooks": true,
             "ssh": true,
-            "credits": "$0",
+            "credits": "-",
             "persistence": true,
             "region": "Worldwide"
         },
@@ -208,7 +208,7 @@
             "images": true,
             "notebooks": true,
             "ssh": true,
-            "credits": "$0",
+            "credits": "-",
             "persistence": true,
             "region": "US",
             "pricing-source": "https://lambdalabs.com/service/gpu-cloud#pricing"
@@ -238,7 +238,7 @@
             "images": true,
             "notebooks": true,
             "ssh": true,
-            "credits": "$0",
+            "credits": "-",
             "persistence": true,
             "region": "Finland"
         },
@@ -268,7 +268,7 @@
             "images": false,
             "notebooks": false,
             "ssh": true,
-            "credits": "$0",
+            "credits": "-",
             "persistence": true,
             "region": "Netherlands"
         },
@@ -299,7 +299,7 @@
             "images": true,
             "notebooks": true,
             "ssh": true,
-            "credits": "$0",
+            "credits": "-",
             "persistence": true,
             "region": "India"
         },
@@ -329,7 +329,7 @@
             "images": true,
             "notebooks": true,
             "ssh": true,
-            "credits": "$0",
+            "credits": "-",
             "persistence": true,
             "region": "Worldwide"
         },
@@ -359,7 +359,7 @@
             "images": true,
             "notebooks": false,
             "ssh": true,
-            "credits": "$0",
+            "credits": "-",
             "persistence": true,
             "region": "US"
         },
@@ -389,7 +389,7 @@
             "images": true,
             "notebooks": false,
             "ssh": true,
-            "credits": "$0",
+            "credits": "-",
             "persistence": true,
             "region": "Worldwide"
         },
@@ -450,7 +450,7 @@
             "images": true,
             "notebooks": false,
             "ssh": true,
-            "credits": "$0",
+            "credits": "-",
             "persistence": true,
             "region": "Worldwide"
         },
@@ -482,7 +482,7 @@
             "images": true,
             "notebooks": false,
             "ssh": true,
-            "credits": "$0",
+            "credits": "-",
             "persistence": true,
             "region": "Worldwide"
         },
@@ -514,7 +514,7 @@
             "images": true,
             "notebooks": false,
             "ssh": true,
-            "credits": "$0",
+            "credits": "-",
             "persistence": true,
             "region": "US"
         },
@@ -546,7 +546,7 @@
             "images": true,
             "notebooks": false,
             "ssh": true,
-            "credits": "$0",
+            "credits": "-",
             "persistence": true,
             "region": "Italy"
         },
@@ -578,7 +578,7 @@
             "images": true,
             "notebooks": false,
             "ssh": true,
-            "credits": "$0",
+            "credits": "-",
             "persistence": true,
             "region": "Worldwide"
         },
@@ -610,7 +610,7 @@
             "images": true,
             "notebooks": false,
             "ssh": true,
-            "credits": "$0",
+            "credits": "-",
             "persistence": true,
             "region": "Switzerland, Germany"
         },
@@ -672,7 +672,7 @@
             "images": true,
             "notebooks": false,
             "ssh": true,
-            "credits": "$0",
+            "credits": "-",
             "persistence": true,
             "region": "Worldwide",
             "pricing-source": "https://cirrascale.com/cirrascale-cloud-pricing.php"
@@ -703,7 +703,7 @@
             "images": true,
             "notebooks": false,
             "ssh": true,
-            "credits": "$0",
+            "credits": "-",
             "persistence": true,
             "region": "Worldwide",
             "pricing-source": "https://www.cudocompute.com/gpu-rental/"
@@ -797,7 +797,7 @@
             "images": true,
             "notebooks": false,
             "ssh": true,
-            "credits": "$0",
+            "credits": "-",
             "persistence": true,
             "region": "US",
             "pricing-source": "https://crusoecloud.com/pricing/"
@@ -828,7 +828,7 @@
             "images": true,
             "notebooks": false,
             "ssh": false,
-            "credits": "$0",
+            "credits": "-",
             "persistence": false,
             "region": "Worldwide",
             "pricing-source": "https://salad.com/pricing"
