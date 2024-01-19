@@ -801,6 +801,37 @@
             "persistence": true,
             "region": "US",
             "pricing-source": "https://crusoecloud.com/pricing/"
+        },
+        {
+            "name": "Salad",
+            "url": "https://salad.com/",
+            "cost1080": "-",
+            "costv100": "-",
+            "costp100": "-",
+            "costt4": "-",
+            "costk80": "-",
+            "costm60": "-",
+            "cost3080": "$0.18",
+            "cost3090": "$0.25",
+            "costp4": "-",
+            "cost2080": "-",
+            "costa5000": "-",
+            "costa6000": "-",
+            "costa100_40": "-",
+            "costa100_80": "-",
+            "costrtx6000": "-",
+            "costa40": "-",
+            "costa10": "-",
+            "cost4090": "$0.30",
+            "costh100": "-",
+            "costl40": "-",
+            "images": true,
+            "notebooks": false,
+            "ssh": false,
+            "credits": "$0",
+            "persistence": false,
+            "region": "Worldwide",
+            "pricing-source": "https://salad.com/pricing"
         }
     ]
 }
