@@ -832,6 +832,24 @@
             "persistence": false,
             "region": "Worldwide",
             "pricing-source": "https://salad.com/pricing"
+        },
+	{
+            "name": "Hyperstack",
+            "url": "https://hyperstack-portal.nexgencloud.com/",
+	    "costrtxa4000": "$0.43",
+	    "costrtxa5000": "$0.63",
+	    "costrtx6000": "$1.10",
+            "costa40": "$1.10",
+	    "costl40": "$1.40",
+	    "costa100_80": "$2.75",
+            "costh100": "$4.30",
+            "images": true,
+            "notebooks": false,
+            "ssh": true,
+            "credits": "-",
+            "persistence": true,
+            "region": "Worldwide",
+            "pricing-source": "https://www.hyperstack.cloud/gpu-pricing"
         }
     ]
 }
