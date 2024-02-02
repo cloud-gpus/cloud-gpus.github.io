@@ -835,7 +835,7 @@
         },
 	{
             "name": "Hyperstack",
-            "url": "https://hyperstack-portal.nexgencloud.com/",
+            "url": "https://console.hyperstack.cloud",
 	    "costrtxa4000": "$0.43",
 	    "costrtxa5000": "$0.63",
 	    "costrtx6000": "$1.10",
