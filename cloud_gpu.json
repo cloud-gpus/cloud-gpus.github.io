@@ -864,5 +864,36 @@
             "region": "Worldwide",
             "pricing-source": "https://www.hyperstack.cloud/gpu-pricing"
         }
+	   {
+            "name": "CR8DL",
+            "url": "https://www.cr8dl.ai",
+            "cost1080": "-",
+            "costv100": "-",
+            "costp100": "-",
+            "costt4": "-",
+            "costk80": "-",
+            "costm60": "-",
+            "cost3080": "-",
+            "cost3090": "-",
+            "costp4": "-",
+            "cost2080": "-",
+            "costa5000": "-",
+            "costa6000": "-",
+            "costa100_40": "-",
+            "costa100_80": "$3.40",
+            "costrtx6000": "-",
+            "costa40": "-",
+            "costa10": "-",
+            "cost4090": "-",
+            "costh100": "-",
+            "costl40": "-",
+            "images": false,
+            "notebooks": false,
+            "ssh": true,
+            "credits": "$100",
+            "persistence": false,
+            "region": "US",
+            "pricing-source": "https://www.cr8dl.ai/gpu-on-demand/"
+        }  
     ]
 }
