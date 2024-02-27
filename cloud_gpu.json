@@ -863,6 +863,36 @@
             "persistence": true,
             "region": "Worldwide",
             "pricing-source": "https://www.hyperstack.cloud/gpu-pricing"
+        },
+        {
+            "name": "Dataoorts",
+            "url": "https://dataoorts.com",
+            "cost1080": "-",
+            "costk80": "-",
+            "costv100": "-",
+            "costp100": "-",
+            "costa5000": "-",
+            "costa6000": "$0.43",
+            "costa100_40": "-",
+            "costa100_80": "$0.55",
+            "costrtx6000": "-",
+            "cost3080": "-",
+            "cost3090": "-",
+            "cost2080": "-",
+            "costp4": "-",
+            "costt4": "$0.34",
+            "costa40": "$0.45",
+            "costa10": "$0.35",
+            "cost4090": "-",
+            "costh100": "$0.69",
+            "costl40": "-",
+            "images": true,
+            "notebooks": true,
+            "ssh": true,
+            "credits": "-",
+            "persistence": true,
+            "region": "Worldwide",
+            "pricing-source": "https://dataoorts.com/pricing"
         }
     ]
 }
