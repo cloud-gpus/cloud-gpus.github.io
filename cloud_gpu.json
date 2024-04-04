@@ -863,6 +863,37 @@
             "persistence": true,
             "region": "Worldwide",
             "pricing-source": "https://www.hyperstack.cloud/gpu-pricing"
+        },
+        {
+            "name": "Scaleway",
+            "url": "https://www.scaleway.com/",
+            "cost1080": "-",
+            "costv100": "-",
+            "costp100": "$1.36",
+            "costt4": "-",
+            "costk80": "-",
+            "costm60": "-",
+            "cost3080": "-",
+            "cost3090": "-",
+            "costp4": "-",
+            "cost2080": "-",
+            "costa5000": "-",
+            "costa6000": "-",
+            "costa100_40": "-",
+            "costa100_80": "-",
+            "costrtx6000": "-",
+            "costa40": "-",
+            "costa10": "-",
+            "cost4090": "-",
+            "costh100": "$2.76",
+            "costl40": "-",
+            "images": true,
+            "notebooks": false,
+            "ssh": true,
+            "credits": "-",
+            "persistence": true,
+            "region": "Europe",
+            "pricing-source": "https://www.scaleway.com/en/gpu-instances/"
         }
     ]
 }
