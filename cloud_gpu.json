@@ -897,7 +897,7 @@
         },
         {
             "name": "Backprop",
-            "url": "https://backprop.co/",
+            "url": "https://backprop.co/?utm_source=cloud-gpus.com",
             "cost1080": "-",
             "costv100": "-",
             "costp100": "-",
@@ -924,7 +924,7 @@
             "credits": "-",
             "persistence": false,
             "region": "Europe",
-            "pricing-source": "https://backprop.co/"
+            "pricing-source": "https://backprop.co/?utm_source=cloud-gpus.com"
         }
     ]
 }
