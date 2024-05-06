@@ -895,5 +895,35 @@
             "region": "Europe",
             "pricing-source": "https://www.scaleway.com/en/gpu-instances/"
         }
+	    {
+            "name": "Shakti Cloud",
+            "url": "https://shakticloud.ai/",
+            "cost1080": "-",
+            "costv100": "$0.95",
+            "costp100": "-",
+            "costt4": "$0.27",
+            "costk80": "-",
+            "costm60": "-",
+            "cost3080": "-",
+            "cost3090": "-",
+            "costp4": "-",
+            "cost2080": "-",
+            "costa5000": "-",
+            "costa6000": "-",
+            "costa100_40": "$0.27",
+            "costa100_80": "-",
+            "costrtx6000": "-",
+            "costa40": "-",
+            "costa10": "-",
+            "cost4090": "-",
+            "costh100": "$2.76",
+            "costl40": "-",
+            "images": true,
+            "notebooks": true,
+            "ssh": true,
+            "credits": "-",
+            "persistence": true,
+            "region": "India",
+        }
     ]
 }
