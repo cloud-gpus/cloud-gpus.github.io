@@ -894,7 +894,7 @@
             "persistence": true,
             "region": "Europe",
             "pricing-source": "https://www.scaleway.com/en/gpu-instances/"
-        }
+        },
 	    {
             "name": "Shakti Cloud",
             "url": "https://shakticloud.ai/",
