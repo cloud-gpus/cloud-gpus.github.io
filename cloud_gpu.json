@@ -447,6 +447,7 @@
             "cost4090": "-",
             "costh100": "$2.99",
             "costl40": "-",
+	    "costl4": "$1.00",
             "images": true,
             "notebooks": false,
             "ssh": true,
