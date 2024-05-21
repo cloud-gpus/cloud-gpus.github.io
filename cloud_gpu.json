@@ -956,6 +956,36 @@
             "credits": "-",
             "persistence": true,
             "region": "India"
+        },
+        {
+            "name": "Massed Compute",
+            "url": "https://massedcompute.com/?utm_source=cloud-gpus.com",
+            "cost1080": "-",
+            "costv100": "-",
+            "costp100": "-",
+            "costt4": "-",
+            "costk80": "-",
+            "costm60": "-",
+            "cost3080": "-",
+            "cost3090": "-",
+            "costp4": "-",
+            "cost2080": "-",
+            "costa5000": "$0.41",
+            "costa6000": "$0.625",
+            "costa100_40": "-",
+            "costa100_80": "$1.89",
+            "costrtx6000": "-",
+            "costa40": "-",
+            "costa10": "-",
+            "cost4090": "-",
+            "costh100": "$2.99",
+            "costl40": "$0.99",
+            "images": true,
+            "notebooks": true,
+            "ssh": true,
+            "credits": "-",
+            "persistence": false,
+            "region": "US"
         }
     ]
 }
