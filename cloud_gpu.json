@@ -956,6 +956,41 @@
             "credits": "-",
             "persistence": true,
             "region": "India"
+        },
+        {
+            "name": "Nebius AI",
+            "url": "https://nebius.ai/",
+            "cost1080": "-",
+            "costv100": "-",
+            "costp100": "-",
+            "costk80": "-",
+            "costp5000": "-",
+            "costp4000": "-",
+            "costp6000": "-",
+            "costrtx4000": "-",
+            "costrtx5000": "-",
+            "cost3080": "-",
+            "cost3090": "-",
+            "cost2080": "-",
+            "costa5000": "-",
+            "costa6000": "-",
+            "costa100_40": "-",
+            "costa100_80": "-",
+            "costp4": "-",
+            "costt4": "-",
+            "costrtx6000": "-",
+            "costa40": "-",
+            "costa10": "-",
+            "cost4090": "-",
+            "costh100": "$2.12",
+            "costl40": "-",
+            "images": true,
+            "notebooks": true,
+            "ssh": true,
+            "credits": "-",
+            "persistence": true,
+            "region": "Finland"
+            "pricing-source": "https://nebius.ai/prices"
         }
     ]
 }
