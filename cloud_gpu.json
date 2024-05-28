@@ -956,6 +956,37 @@
             "credits": "-",
             "persistence": true,
             "region": "India"
+        },
+	{
+            "name": "Modal",
+            "url": "https://modal.com/",
+            "cost1080": "-",
+            "costv100": "-",
+            "costp100": "-",
+            "costt4": "$0.59",
+            "costk80": "-",
+            "costm60": "-",
+            "cost3080": "-",
+            "cost3090": "-",
+            "costp4": "-",
+            "cost2080": "-",
+            "costa5000": "-",
+            "costa6000": "-",
+            "costa100_40": "$3.73",
+            "costa100_80": "$5.59",
+            "costrtx6000": "-",
+            "costa40": "-",
+            "costa10": "$1.10",
+            "cost4090": "-",
+            "costh100": "$7.65",
+            "costl40": "-",
+            "images": true,
+            "notebooks": true,
+            "ssh": false,
+            "credits": "$30",
+            "persistence": true,
+	    "pricing-source": "https://modal.com/pricing"
+	    "region": "Worldwide"
         }
     ]
 }
