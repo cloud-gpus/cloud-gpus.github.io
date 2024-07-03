@@ -986,6 +986,38 @@
             "credits": "-",
             "persistence": false,
             "region": "US"
+        },
+        {
+            "name": "Oracle Cloud",
+            "url": "https://www.oracle.com/cloud/?utm_source=cloud-gpus.com",
+            "cost1080": "-",
+            "costv100": "$2.95",
+            "costp100": "$1.275",
+            "costt4": "-",
+            "costk80": "-",
+            "costm60": "-",
+            "cost3080": "-",
+            "cost3090": "-",
+            "costp4": "-",
+            "cost2080": "-",
+            "costa5000": "$0.41",
+            "costa6000": "-",
+            "costa100_40": "$3.05",
+            "costa100_80": "$4.00",
+            "costrtx6000": "-",
+            "costa40": "-",
+            "costa10": "$2.00",
+            "cost4090": "-",
+            "costh100": "$10.00",
+            "costl40": "-",
+            "costl40s": "-",
+            "images": true,
+            "notebooks": true,
+            "ssh": true,
+            "credits": "$300",
+            "persistence": true,
+            "region": "Global",
+            "pricing-source": "https://www.oracle.com/cloud/compute/gpu/pricing/"
         }
     ]
 }
