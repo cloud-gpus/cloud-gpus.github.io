@@ -1018,6 +1018,38 @@
             "persistence": true,
             "region": "Global",
             "pricing-source": "https://www.oracle.com/cloud/compute/gpu/pricing/"
+        },
+        {
+            "name": "Ori Global Cloud",
+            "url": "https://www.ori.co/gpu-virtual-machines",
+            "cost1080": "-",
+            "costv100": "$0.83",
+            "costp100": "-",
+            "costt4": "-",
+            "costk80": "-",
+            "costm60": "-",
+            "cost3080": "-",
+            "cost3090": "-",
+            "costp4": "-",
+            "cost2080": "-",
+            "costa5000": "-",
+            "costa6000": "-",
+            "costa100_40": "-",
+            "costa100_80": "$2.73",
+            "costrtx6000": "-",
+            "costa40": "$1.95",
+            "costa10": "-",
+            "cost4090": "-",
+            "costh100": "$3.24",
+            "costl40": "-",
+            "costl40s": "$1.96",
+            "images": true,
+            "notebooks": false,
+            "ssh": true,
+            "credits": "$200",
+            "persistence": true,
+            "region": "Worldwide",
+            "pricing-source": "https://www.ori.co/pricing"
         }
     ]
 }
