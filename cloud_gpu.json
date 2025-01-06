@@ -806,7 +806,7 @@
             "pricing-source": "https://crusoecloud.com/pricing/"
         },
         {
-            "name": "Salad",
+            "name": "SaladCloud",
             "url": "https://salad.com/",
             "cost1080": "-",
             "costv100": "-",
@@ -814,8 +814,8 @@
             "costt4": "-",
             "costk80": "-",
             "costm60": "-",
-            "cost3080": "$0.18",
-            "cost3090": "$0.25",
+            "cost3080": "$0.09",
+            "cost3090": "$0.10",
             "costp4": "-",
             "cost2080": "-",
             "costa5000": "-",
@@ -825,7 +825,7 @@
             "costrtx6000": "-",
             "costa40": "-",
             "costa10": "-",
-            "cost4090": "$0.30",
+            "cost4090": "$0.18",
             "costh100": "-",
             "costl40": "-",
             "images": true,
