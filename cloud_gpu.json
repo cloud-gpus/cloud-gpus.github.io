@@ -305,7 +305,7 @@
         },
         {
             "name": "RunPod",
-            "url": "https://www.runpod.io",
+            "url": "https://runpod.io?ref=pj23f005",
             "cost1080": "-",
             "costv100": "$0.32",
             "costp100": "-",
