@@ -615,7 +615,7 @@
             "ssh": true,
             "credits": "-",
             "persistence": true,
-            "region": "Switzerland, Germany"
+            "region": "Switzerland, Germany, Austria, Bulgaria, Croatia"
         },
         {
             "name": "ACE Cloud",
