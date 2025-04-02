@@ -594,11 +594,11 @@
             "costt4": "-",
             "costk80": "-",
             "costm60": "-",
-            "cost3080": "-",
+            "cost3080": "$0.923",
             "cost3090": "-",
             "costp4": "-",
             "cost2080": "-",
-            "costa5000": "-",
+            "costa5000": "$1.340",
             "costa6000": "-",
             "costa100_40": "-",
             "costa100_80": "-",
@@ -615,7 +615,7 @@
             "ssh": true,
             "credits": "-",
             "persistence": true,
-            "region": "Switzerland, Germany"
+            "region": "Switzerland, Germany, Austria, Bulgaria, Croatia"
         },
         {
             "name": "ACE Cloud",
