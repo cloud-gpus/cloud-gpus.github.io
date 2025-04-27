@@ -1080,7 +1080,7 @@
             "images": true,
             "notebooks": true,
             "ssh": true,
-            "credits": "-",
+            "credits": "$20",
             "persistence": true,
             "region": "US",
             "pricing-source": "https://www.thundercompute.com/pricing"
