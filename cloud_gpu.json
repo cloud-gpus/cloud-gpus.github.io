@@ -682,7 +682,7 @@
         },
         {
             "name": "Cudo Compute",
-            "url": "https://www.cudocompute.com/?via=cloudgpus",
+            "url": "https://www.cudocompute.com/pricing?via=cloudgpus",
             "cost1080": "-",
             "costv100": "$0.39",
             "costp100": "-",
