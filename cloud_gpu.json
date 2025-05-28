@@ -1114,6 +1114,38 @@
             "persistence": true,
             "region": "US",
             "pricing-source": "https://puregpu.com"
+        },
+        {
+            "name": "Sesterce",
+            "url": "https://www.sesterce.com/pricing?ref=cloudgpus",
+            "cost1080": "-",
+            "costv100": "-",
+            "costp100": "-",
+            "costt4": "-",
+            "costk80": "-",
+            "costm60": "-",
+            "cost3080": "-",
+            "cost3090": "-",
+            "costp4": "-",
+            "cost2080": "-",
+            "costa5000": "$0.25",
+            "costa6000": "$0.49",
+            "costa100_40": "-",
+            "costa100_80": "$1.25",
+            "costrtx6000": "-",
+            "costa40": "-",
+            "costa10": "-",
+            "cost4090": "$0.40",
+            "costh100": "$1.90",
+            "costl40": "$0.99",
+            "costl40s": "-",
+            "images": true,
+            "notebooks": true,
+            "ssh": true,
+            "credits": "-",
+            "persistence": true,
+            "region": "Europe/North America",
+            "pricing-source": "https://www.sesterce.com/pricing?ref=cloudgpus"
         }
     ]
 }
