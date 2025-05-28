@@ -1078,7 +1078,7 @@
             "images": true,
             "notebooks": false,
             "ssh": true,
-            "credits": "$200",
+            "credits": "-",
             "persistence": true,
             "region": "Worldwide",
             "pricing-source": "https://www.ori.co/pricing"
