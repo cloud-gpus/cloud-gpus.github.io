@@ -11,7 +11,7 @@ defaults:
 jobs:
   trigger-build:
     name: Trigger build
-    runs-on: ubuntu-20.04
+    runs-on: ubuntu-latest
     steps:
       - name: sleep for 30 seconds
         run: sleep 30s
