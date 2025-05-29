@@ -1154,6 +1154,31 @@
             "persistence": true,
             "region": "Europe/North America",
             "pricing-source": "https://www.sesterce.com/pricing?ref=cloudgpus"
+        },
+        {
+            "name": "TensorWave",
+            "url": "https://tensorwave.com/bare-metal?ref=cloudgpus",
+            "costmi300x": "$1.50",
+            "costmi325x": "$2.25",
+            "images": false,
+            "notebooks": false,
+            "ssh": true,
+            "credits": "-",
+            "persistence": true,
+            "region": "US",
+            "pricing-source": "https://tensorwave.com/bare-metal"
+        },
+        {
+            "name": "HotAisle",
+            "url": "https://hotaisle.xyz/pricing/?ref=cloudgpus",
+            "costmi300x": "$3.00",
+            "images": false,
+            "notebooks": false,
+            "ssh": true,
+            "credits": "-",
+            "persistence": true,
+            "region": "US",
+            "pricing-source": "https://hotaisle.xyz/pricing/"
         }
     ]
 }
