@@ -372,6 +372,7 @@
             "costh200": "$3.59",
             "costb200": "$6.39",
             "costl40": "$1.29",
+            "costmi300x": "$1.99",
             "images": true,
             "notebooks": true,
             "ssh": true,
