@@ -272,7 +272,8 @@
             "costa40": "-",
             "costa10": "-",
             "cost4090": "-",
-            "costh100": "$1.69",
+            "costh100": "$3.49",
+            "costh200": "$3.00",
             "costl40": "-",
             "images": true,
             "notebooks": true,
@@ -280,7 +281,7 @@
             "credits": "-",
             "persistence": true,
             "region": "India",
-	    "pricing-source": "https://www.neevcloud.com/pricing.php"
+	        "pricing-source": "https://www.neevcloud.com/pricing.php"
         },
         {
             "name": "LeaderGPU",
@@ -1241,7 +1242,7 @@
             "costa40": "$1.00",
             "costa10": "-",
             "cost4090": "-",
-            "costh100": "$2.2.44",
+            "costh100": "$2.44",
             "costh200": "$3.87",
             "costmi300x": "-",
             "costl40": "-",
