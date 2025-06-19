@@ -159,7 +159,7 @@
 	},
         {
             "name": "Vast.ai",
-            "url": "https://cloud.vast.ai/?ref=61525",
+            "url": "https://cloud.vast.ai/?ref_id=9155",
             "cost1080": "$0.05",
             "costk80": "$0.10",
             "costv100": "$0.16",
