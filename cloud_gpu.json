@@ -1324,6 +1324,38 @@
             "persistence": true,
             "region": "US",
             "pricing-source": "https://www.atlantic.net/gpu-server-hosting/"
+        },
+        {
+            "name": "RunC.AI",
+            "url": "https://www.runc.ai/?ytag=rc_GpuPrice_compare0630",
+            "cost1080": "-",
+            "costv100": "-",
+            "costp100": "-",
+            "costt4": "-",
+            "costk80": "-",
+            "costm60": "-",
+            "cost3080": "-",
+            "cost3090": "$0.3",
+            "costp4": "-",
+            "cost2080": "-",
+            "costa5000": "-",
+            "costa6000": "-",
+            "costa100_40": "$1.8",
+            "costa100_80": "-",
+            "costrtx6000": "-",
+            "costa40": "-",
+            "costa10": "-",
+            "cost4090": "$0.42",
+            "costh100": "$2.7",
+            "costl40": "-",
+            "costl40s": "-",
+            "images": true,
+            "notebooks": true,
+            "ssh": true,
+            "credits": "-",
+            "persistence": true,
+            "region": "US",
+            "pricing-source": "https://www.runc.ai/?ytag=rc_GpuPrice_compare0630"
         }
     ]
 }
