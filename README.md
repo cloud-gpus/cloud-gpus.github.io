@@ -1,9 +1,5 @@
-<h1 align="center">Cloud GPUs</h1>
+<h1>Cloud GPU comparison</h1>
 
-A sortable list of cloud GPU providers (NVIDIA and AMD), viewable on [cloud-gpus.com](https://cloud-gpus.com). 
+[cloud-gpus.com](https://cloud-gpus.com) is a portal for comparing GPU instances across cloud providers. 
 
-Please submit a pull request for any changes. 
-
-The list of cloud GPU providers is in https://github.com/cloud-gpus/cloud-gpus.github.io/blob/main/cloud_gpu.json. 
-
-For a list of cloud providers that offer AMD GPUs, see [AMD GPUs](https://cloud-gpus.com/amd-gpus). 
+This repository was previously used to maintain the list of instances shown, and is now archived. 
