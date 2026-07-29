@@ -21,11 +21,11 @@ Narrow down the results list to only those you care about.
 **Select specific GPU models, individual cloud providers, total VRAM, hourly price, compliance certifications**, and more.
 
 <p align="center">
-  <img src="img/cloud-gpus-filters-1.png" width="47%" alt="A cropped screenshot of Cloud-GPUs.com's filters panel. Filters shown include GPU Brand, Provisioning, Virtualisation, Commitment, Total GPU Memory (GB), GPU Model, Compliance, and Provider. ">
-  <img src="img/cloud-gpus-filters-2.png" width="47%" alt="A cropped screenshot of Cloud-GPUs.com's filters panel. Filters shown include Total $USD per hour, Min Total GPU memory, Num. GPUs, Product Type, GPU Release Year, Architecture Generation, Provider Accreditations, Architecture, Include P2P, CUDA Version Compatibility, and Per GPU Memory (GB). ">
+  <img src="img/cloud-gpus-filters-main.png" width="47%" alt="A cropped screenshot of Cloud-GPUs.com's 'Main Filters' panel. Filters shown include GPU Brand, Provisioning, Commitment, Total GPU Memory (GB), GPU Model, Provider, Total $USD Per Hour and Compliance. ">
+  <img src="img/cloud-gpus-filters-advanced.png" width="47%" alt="A cropped screenshot of Cloud-GPUs.com's 'Advanced Filters' panel. Filters shown include Virtualisation, Min Total GPU memory, Num. GPUs, GPU Release Year,  Architecture Generation, Provider Accreditations, Architecture, Product Type, Include P2P, CUDA Version Compatibility, and Per GPU Memory (GB). ">
 </p>
 
-For example: filter down to [only instances with RTX PRO 6000 Blackwell GPUs](https://cloud-gpus.com/?provisioning=On-demand%2CReserved&gpu=RTX+Pro+6000+Server&num_pgus__lower=1&gen=Latest%2CRecent&p2p=No).
+For example: filter down to [only instances with RTX PRO 6000 Blackwell GPUs](https://cloud-gpus.com/?provisioning=On-demand%2CReserved&gpu=RTX+Pro+6000+SE&num_pgus__lower=1&gen=Latest%2CRecent&p2p=No).
 
 ## Shareable URLs
 
@@ -58,7 +58,7 @@ the most expensive on-demand GPU is the NVIDIA GB300, with a median hourly price
 
 The [Cloud-GPUs.com](https://cloud-gpus.com) database includes:
 - Hyperscalers (AWS, Google Cloud Platform, Azure, Oracle)
-- Other global cloud providers (Akamai, Vultr, DigitalOcean, ...)
+- Other global cloud providers (Vultr, DigitalOcean, ...)
 - AI-focused Neoclouds (CoreWeave, Lambda Labs, Nebius, Together AI, ...)
 - Regional cloud providers (Hetzner, Atlantic.net, Beyond.pl, ...)
 - Compute marketplaces (Vast.ai, Runpod, ...)
@@ -67,26 +67,27 @@ Data is refreshed at least daily for most providers.
 
 ## Comparing instances details and prices
 
-The results panel shows a summary of available instances, and clicking on the instance description will take you
-to the cloud provider's site.
+The results panel shows a summary of available instances. 
+
+Clicking on "Show all configurations" expands a provider's results panel to show a more detailed view, with each
+available configuration showing as a separate line. 
 
 <p align="center">
-<img width="80%" src="img/cloud-gpus-rtx-pro-6000.png" alt="A cropped screenshot of cloud-gpus.com showing pricing for two instance configurations on Seeweb, for 1x and 2x NVIDIA RTX Pro 6000 server. Prices are $1.23/gpu/h.">
+<img width="80%" src="img/cloud-gpus-seeweb-collapsed.png" alt="A cropped screenshot of cloud-gpus.com showing high-level pricing for instance configurations on Seeweb, for the NVIDIA RTX Pro 6000 SE. Prices range from $1.21/gpu/h to $1.42/gpu/h.">
+<img width="80%" src="img/cloud-gpus-seeweb-expanded.png" alt="A cropped screenshot of cloud-gpus.com showing pricing for two instance configurations on Seeweb, for 1x, 2x, 4x and 8x NVIDIA RTX Pro 6000 server. On-demand prices are $1.42$/gpu/h, and 1y reservations are $1.21/gpu/h.">
 </p>
 
-This example shows two instance configurations available at the cloud provider Seeweb.it, with overall hourly prices
-per instance ranging from $1.23/h to $2.91/h. 
+This example shows four instance configurations available at the cloud provider Seeweb.it, with hourly gpu prices
+ranging from $1.23/h to $1342/h. 
 The first configuration has one NVIDIA RTX Pro 6000 Server
-GPUs attached, and the second has two. Both have pricing starting at $1.23/gpu/h.
+GPUs attached, the second has two, the third four, and the fourth eight. All have pricing starting at $1.23/gpu/h for 1-year reservations.
 
 The following info is also shown:
-- This GPU uses the NVIDIA Blackwell architecture
-- The amount of memory available on the GPU (VRAM) is 96GB for one GPU, or 192GB for both. 
-- The GPU's memory bandwidth is 1.597TB/s. This can be a useful performance proxy, especially for LLM inference. 
 - The interface on the GPU is PCIe
-- The first instance has 16 CPU cores, 120GB RAM and 500GB disk space, and the second has twice as much of each.
-- The servers are located in Italy ("IT")
-- The $1.23/gpu/h price is for a 1-year reservation. 6- and 3-month reservations are slightly more expensive, and on-demand prices are $1.46/h. 
+- The $1.21/gpu/h price is for a 1-year reservation. 6- and 3-month reservations are slightly more expensive, and on-demand prices are $1.42/h. 
+- The total hourly price for the 8x NVIDIA RTX Pro 6000 Server configuration is $9.66. (this shows up when hovering over per-gpu hourly prices)
+
+On larger screens more columns would be shown, including total VRAM, memory bandwidth, available regions, and other instance specs.
 
 # About
 
